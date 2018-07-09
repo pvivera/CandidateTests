@@ -1,7 +1,7 @@
 Recently we've received a requirement to create a basic banking system.
 
-These are the requeriments for the system:
-  - Create accounts
+These are the requirements for the system:
+  - Create accounts (you need a positive initial balance to open an account)
   - List accounts (with all properties)
   - Receive deposits
   - Accept withdraws
